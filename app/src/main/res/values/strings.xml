@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Parent Survey</string>
+    <!--Parents questionnaire-->
+    <string name="pa_title">የቅድመ መደበኛ መምህራን ስላላቸው የማስተማር ብቃት፣ ፍላጎት እና ክህሎት እና ተነሳሽነት
+በተመለከተ የቀረበ መጠይቅየመላሾች </string>
+    <string name="pa_general_info_title">የመላሾች አጠቃላይ መረጃ</string>
+    <string name="pa_gender_label">1. ፆታ፡</string>
+    <string name="pa_male">ወንድ</string>
+    <string name="pa_female">ሴት</string>
+    <string name="pa_age_label">2. ዕድሜ፡</string>
+    <string name="pa_years">ዓመት</string>
+    <string name="pa_spouse_years">3. የባለቤትዎ ዕድሜ፡</string>
+    <string name="pa_marital_condition">4. የትዳር  ሁኔታ </string>
+    <string name="pa_married">ያገባ</string>
+    <string name="pa_unmarried">ያላገባ</string>
+    <string name="pa_occupation">5. የእርሶ ስራ፡ </string>
+    <string name="pa_spouse_occupation">6. የባለቤትዎ ስራ፡ </string>
+    <string name="pa_guessed_monthly_income">7. በግምት የቤተሰብዎ  ወርሃዊ  ገቢ ስንት ነው</string>
+    <string name="pa_education_status">8. የት/ት ደረጃ፡- </string>
+    <string name="pa_uneducated">8.1 ያልተማረ</string>
+    <string name="pa_adult_education">8.2 የጎልማሶች ት/ርት የተማረ </string>
+    <string name="pa_primary_school">8.3 የመጀመሪያ ደረጃ ት/ርት የተማረ (1-8)</string>
+    <string name="pa_secondary_school">8.4 ሁለተኛ  ደረጃ ት/ርት የተማረ (9-12)</string>
+    <string name="pa_diploma">8.5 ዲፕሎማ / </string>
+    <string name="pa_degree">8.6 ዲግሪ </string>
+    <string name="pa_second_degree">8.7 ሁለተኛ ዲግሪ ና ከዛበላይ የተማረ</string>
+    <string name="pa_how_many_under_8">9. ከ 8 ዓመት በታች  ምንያህል  ልጆች አለዎት ?</string>
+    <string name="pa_how_many_disabled_under_8">10. ከ 8 ዓመት በታች   አካል ጉዳተኛ  የሆኑ  ምንህል  ልጆች  አለዎት ?</string>
+    <string name="pa_how_many_disabled_under_8_in_kg">12. ከ8 ዓመት በታች  ሆነው አካልጉዳተኛ የሆኑ  በቅድመ መደበኛ ትምህርት  በመማር ላይ  የሚገኙ ምንያህል ልጆች አለዎት?</string>
+    <string name="pa_how_many_under_8_in_kg">11. ከ8 ዓመት በታች የሆኑ እና  ቅድመ መደበኛ  (O) class  በመማር ላይ ያሉ ምንያህል  ልጆች አለሆት</string>
+    <string name="pa_kgs_around">13. በዚህ አካባቢ  ቅድመ መደበኛ ( መዋለህፃናት )  ምንያህል ይገኛሉ?</string>
+    <string name="pa_governmental_kg">13.1 መንግስታዊ ቅድመ መደበኛ ት/ቤት (0 ክፍል) </string>
+    <string name="pa_kg_for_under_6">13.2 መዋለህፃናት  ከ4-6 ዓመት ለሆኑ ህፃናት ( ቅድመ መደበኛ ት/ቤት ) </string>
+    <string name="pa_under_3">0-3 ዓመት</string>
+    <string name="pa_under_6">4-6 ዓመት</string>
+    <string name="pa_under_9">7-8/9 ዓመት</string>
+    <string name="pa_boys">ወንዶች</string>
+    <string name="pa_girls">ሴቶች</string>
+
+    <string name="pa_O_parents_title">ልጆቻቸውን ኦ ክላስ ወይንም ኬጂ ለሚያሰተምሩ ወላጆች ብቻ የቀረቡ ጥያቄወች</string>
+    <string name="pa_O_parents_sectionone_title">ልጆ ስለሚማርበት ትምሀርት ቤት ጋር ያለዎትን  እውቀት በተመለከተ የቀረቡ ጥቄወች</string>
+    <string name="pa_table_question_1">ልጄ በጉጉት  ወደ ትምርት ቤት  ይሄዳል ፡፡</string>
+    <string name="pa_table_question_2">ልጄ ከትምሀርት ቤት  ብዙነገር ይማራል ፡፡</string>
+    <string name="pa_table_question_3">ልጄ ክፍል ውስጥ ምንእንደሚያደርግ  (እደሚማር ) የተሸለግንዛቤ አለኝ ፡፡</string>
+    <string name="pa_table_question_4">የልጄ መምህራን  ባህላችንን ያከብራሉ፡፡</string>
+    <string name="pa_table_question_5">የልጄ መምህራን  የወላጅ (የቤተሰብ ) ጥንካሬን ያደንቃሉ፡፡</string>
+    <string name="pa_table_question_6">የልጄ መምህራን   ልጄን ይወዱታል፡፡ </string>
+    
+    <!--End Parents questionnaire-->
+</resources>
